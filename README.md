@@ -21,9 +21,9 @@ My name is Kristijan and I'm currently developer [@BorealisAgency](https://githu
 [![GooglePlay](https://img.shields.io/badge/-GooglePlay-green?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=org.studioadriatic.ballsnbricks)
 ### Maintaining Open Source Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=studioadriatic&repo=PGSGP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![PGSGP](https://github-readme-stats.vercel.app/api/pin/?username=studioadriatic&repo=PGSGP&theme=dark)](https://github.com/studioadriatic/PGSGP)
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristijandraca&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristijandraca&layout=compact&theme=dark)]
 
 
