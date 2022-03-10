@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi <img src="https://raw.githubusercontent.com/kristijandraca/kristijandraca/main/wave.gif" width="30px">
 
-<!--
-**kristijandraca/kristijandraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kristijan and I'm currently developer [@BorealisAgency](https://github.com/borealis-agency)
 
-Here are some ideas to get you started:
+## 🔧 Some of technologies that i use...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter)
+![Android](https://img.shields.io/badge/-Android-white?style=for-the-badge&logo=Android)
+![GodotEngine](https://img.shields.io/badge/-GodotEngine-black?style=for-the-badge&logo=GodotEngine)
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
+![Firebase](https://img.shields.io/badge/-Firebase-red?style=for-the-badge&logo=Firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-gray?style=for-the-badge&logo=MongoDB)
+
+## Side projects
+
+### Path Of Slime
+[![AppStore](https://img.shields.io/badge/-AppStore-black?style=for-the-badge&logo=AppStore)](https://apps.apple.com/app/id1554669334)
+[![GooglePlay](https://img.shields.io/badge/-GooglePlay-green?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.studioadriatic.pathofslime)
+
+### Balls n Bricks
+[![GooglePlay](https://img.shields.io/badge/-GooglePlay-green?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=org.studioadriatic.ballsnbricks)
+### Maintaining Open Source Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=studioadriatic&repo=PGSGP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristijandraca&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
