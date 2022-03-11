@@ -24,6 +24,6 @@ My name is Kristijan and I'm currently developer [@BorealisAgency](https://githu
 [![PGSGP](https://github-readme-stats.vercel.app/api/pin/?username=studioadriatic&repo=PGSGP&theme=dark)](https://github.com/studioadriatic/PGSGP)
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristijandraca&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristijandraca&layout=compact&theme=dark)
 
 
