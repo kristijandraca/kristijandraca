@@ -1,6 +1,6 @@
-### Hi <img src="https://raw.githubusercontent.com/kristijandraca/kristijandraca/main/wave.gif" width="30px">
+### Hi <img src="https://raw.githubusercontent.com/kristijandraca/kristijandraca/main/wave.gif" height="30px">
 
-My name is Kristijan and I'm currently developer [@BorealisAgency](https://github.com/borealis-agency)
+My name is Kristijan and I'm currently developer [@photomath](https://github.com/photomath)
 
 ## 🔧 Some of technologies that i use...
 
